@@ -1,2 +1,2 @@
 # Muza Progect
-### Еhe code is not open, use for commercial purposes is not allowed
+### The code is not open, use for commercial purposes is not allowed
