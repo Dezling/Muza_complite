@@ -1,0 +1,4 @@
+import 'package:equatable/equatable.dart';import 'package:flutter/material.dart';import '/core/app_export.dart';import 'package:odintsovnicolay69_s_application1/widgets/custom_bottom_bar.dart';import 'package:odintsovnicolay69_s_application1/presentation/profile_page_of_friend_container1_screen/models/profile_page_of_friend_container1_model.dart';part 'profile_page_of_friend_container1_event.dart';part 'profile_page_of_friend_container1_state.dart';class ProfilePageOfFriendContainer1Bloc extends Bloc<ProfilePageOfFriendContainer1Event, ProfilePageOfFriendContainer1State> {ProfilePageOfFriendContainer1Bloc(ProfilePageOfFriendContainer1State initialState) : super(initialState) { on<ProfilePageOfFriendContainer1InitialEvent>(_onInitialize); }
+
+_onInitialize(ProfilePageOfFriendContainer1InitialEvent event, Emitter<ProfilePageOfFriendContainer1State> emit, ) async  {  } 
+ }
